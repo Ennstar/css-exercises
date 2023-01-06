@@ -1,0 +1,22 @@
+/* Styles.css */
+
+p {
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+    background-color: lightpink;
+}
+
+#id_two {
+    color: blue;
+    font-size: 36;
+}
+
+#id_four{
+    background-color: lightgreen;
+    font-size: 24;
+    font-weight: 700;
+}
+
+#id_three{
+    font-size: 24;
+    font-weight: 700;
+}
