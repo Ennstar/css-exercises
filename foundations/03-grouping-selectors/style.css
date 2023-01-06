@@ -1,0 +1,16 @@
+/* Style.css */
+
+.blk_bg, 
+.yellow_bg {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28;
+}
+
+.blk_bg {
+    color: white;
+    background-color: black;
+}
+
+.yellow_bg {
+    background-color: yellow;
+}
